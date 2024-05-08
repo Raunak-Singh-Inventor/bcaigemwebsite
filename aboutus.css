@@ -42,3 +42,27 @@
   margin: 0px;
   padding: 0px;
 }
+
+.images {
+  width: 300px; 
+  overflow: hidden;
+  border-radius: 50%; 
+  display: block; 
+  object-fit: cover; 
+  margin: 0 auto; 
+}
+
+.founder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foundertag {
+  padding-top: 50px;
+}
+
+.body{
+  background-color: rgb(188, 178, 165);
+}
+
