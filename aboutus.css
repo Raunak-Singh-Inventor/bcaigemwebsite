@@ -25,11 +25,11 @@
 
 
 /* General styling */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  padding: 20px;
-  margin: 0;
+body
+{
+    font-family: Helvetica, Sans-Serif;
+    color: #444444;
+    background-color: #FAFAFA;
 }
 
 /* Container styling */
