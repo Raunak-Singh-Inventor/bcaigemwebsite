@@ -61,8 +61,8 @@ body
 /* Hover effect */
 .bio-box:hover {
   height: 750px; /* Smaller expansion downwards */
-  width: 300px; /* Slight expansion to the left and right */
-  margin-top: -10px; /* Slight expansion upwards */
+  width: 400px; /* Slight expansion to the left and right */
+  margin-top: -40px; /* Slight expansion upwards */
   margin-left: -15px; /* Slight expansion to the left */
   margin-right: -15px; /* Slight expansion to the right */
 }
