@@ -25,11 +25,11 @@
 
 
 /* General styling */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  padding: 20px;
-  margin: 0;
+body
+{
+    font-family: Helvetica, Sans-Serif;
+    color: #444444;
+    background-color: #FAFAFA;
 }
 
 /* Container styling */
@@ -60,17 +60,17 @@ body {
 
 /* Hover effect */
 .bio-box:hover {
-  height: 500px; /* Smaller expansion downwards */
-  width: 300px; /* Slight expansion to the left and right */
-  margin-top: -10px; /* Slight expansion upwards */
+  height: 750px; /* Smaller expansion downwards */
+  width: 400px; /* Slight expansion to the left and right */
+  margin-top: -40px; /* Slight expansion upwards */
   margin-left: -15px; /* Slight expansion to the left */
   margin-right: -15px; /* Slight expansion to the right */
 }
 
 /* Profile picture */
 .profile-picture img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 180px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
