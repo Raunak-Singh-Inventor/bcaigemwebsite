@@ -60,7 +60,7 @@ body
 
 /* Hover effect */
 .bio-box:hover {
-  height: 500px; /* Smaller expansion downwards */
+  height: 750px; /* Smaller expansion downwards */
   width: 300px; /* Slight expansion to the left and right */
   margin-top: -10px; /* Slight expansion upwards */
   margin-left: -15px; /* Slight expansion to the left */
@@ -69,8 +69,8 @@ body
 
 /* Profile picture */
 .profile-picture img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 180px;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
